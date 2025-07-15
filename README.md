@@ -30,10 +30,10 @@ BOOK003-0002|Karya buku Jonathan Black|Karya buku Jonathan Black
 BOOK003-0003|bab 25|bab dua puluh lima
 
 
-##Acknowledgements
+## Acknowledgements
 The dataset is based on the audiobook "Sejarah Dunia yang Disembunyikan" (The Secret History of the World by Jonathan Black), narrated by Rahman Trahira.
 
 Transcriptions were generated using Whisper ASR and further refined by the dataset creators.
 
-##License
+## License
 This dataset is provided for research purposes only. Redistribution or commercial use without explicit permission is prohibited.
