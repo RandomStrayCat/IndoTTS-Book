@@ -25,8 +25,8 @@ The `metadata.csv` file consists of the following columns:
 3. **Phonetic Text**: A phonetic transcription of the Original Text.
 
 Example:
-BOOK003-0001|Sejarah dunia yang disembunyikan|Sejarah dunia yang disembunyikan
-BOOK003-0002|Karya buku Jonathan Black|Karya buku Jonathan Black
+BOOK003-0001|Sejarah dunia yang disembunyikan|Sejarah dunia yang disembunyikan\
+BOOK003-0002|Karya buku Jonathan Black|Karya buku Jonathan Black\
 BOOK003-0003|bab 25|bab dua puluh lima
 
 
